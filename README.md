@@ -1,6 +1,11 @@
 # Atlan-collect
 A Flask web app that runs several long running tasks parellelly and provides the options to **Pause, Resume** and **Cancel** those tasks at any point of time.
 
+<br/>
+
+### Demo Video : https://youtu.be/5t6imkLY-eE
+
+<br/>
 
 ### Technology Stack
 1) Flask
