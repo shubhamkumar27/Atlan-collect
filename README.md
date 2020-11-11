@@ -3,10 +3,6 @@ A Flask web app that runs several long running tasks parellelly and provides the
 
 <br/>
 
-### Demo Video : https://youtu.be/5t6imkLY-eE
-
-<br/>
-
 ### Technology Stack
 1) Flask
 2) Celery with Redis as broker and backend
