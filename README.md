@@ -1,4 +1,4 @@
-# Atlan-collect
+# Celery Task Controller
 A Flask web app that runs several long running tasks parellelly and provides the options to **Pause, Resume** and **Cancel** those tasks at any point of time.
 
 <br/>
